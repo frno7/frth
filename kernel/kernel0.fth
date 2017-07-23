@@ -1,0 +1,12 @@
+include kernel/source.fth
+include kernel/print.fth
+include kernel/error.fth
+include kernel/double.fth
+include kernel/state.fth
+include kernel/string.fth
+include kernel/unicode.fth
+include kernel/numeric.fth
+include kernel/picture.fth
+include kernel/display.fth
+include kernel/refill.fth
+include kernel/parse.fth
